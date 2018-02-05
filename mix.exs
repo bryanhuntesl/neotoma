@@ -6,7 +6,7 @@ defmodule Neotoma.Mixfile do
   def project do
     [app: :neotoma,
      version: @version,
-     elixir: "~> 0.14",
+     elixir: "~> 1.5.2",
      package: package,
      description: description
     ]
